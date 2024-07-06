@@ -60,7 +60,7 @@ def extract_smb_info(pcap_file, output_folder):
 
 if __name__ == "__main__":
     if len(sys.argv) != 3:
-        print("Usage: python extract_smb_info.py <path_to_pcap_file> <output_folder>")
+        print("Usage: python sam_smb_extractor.py <path_to_pcap_file> <output_folder>")
         sys.exit(1)
 
     pcap_file = sys.argv[1]
