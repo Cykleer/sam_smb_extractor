@@ -12,7 +12,7 @@ This script extracts metadata from SMB write and read requests in a given PCAP f
 
 1. Clone this repository:
     ```sh
-    git clone https://github.com/cykleer/smb_extractor.git
+    git clone https://github.com/cykleer/sam_smb_extractor.git
     cd smb_extractor
     ```
 
